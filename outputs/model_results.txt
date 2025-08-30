@@ -1,0 +1,20 @@
+LinearRegression
+RMSE: 0.17
+MAE: 0.10
+R2: 0.89
+
+Ridge
+RMSE: 0.17
+MAE: 0.10
+R2: 0.89
+
+Lasso
+RMSE: 0.16
+MAE: 0.10
+R2: 0.89
+
+RandomForest
+RMSE: 0.15
+MAE: 0.10
+R2: 0.89
+
